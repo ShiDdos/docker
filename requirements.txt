@@ -1,4 +1,0 @@
-datetime
-colorama
-requests
-sockets
